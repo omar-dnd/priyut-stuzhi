@@ -6,6 +6,9 @@
     "minimum": "11",
     "verified": "11"
   },
+  "url": "https://boosty.to/omar0275",
+  "manifest": "https://raw.githubusercontent.com/omar-dnd/priyut-stuzhi/main/module.json",
+  "download": "https://github.com/omar-dnd/priyut-stuzhi/archive/refs/heads/main.zip",
   "relationships": {
     "systems": [
       {
