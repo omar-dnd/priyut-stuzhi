@@ -1,0 +1,43 @@
+{
+  "id": "priyut-stuzhi-omar0275",
+  "title": "Приют Стужи",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system"
+      }
+    ],
+    "recommends": [
+      {
+        "id": "laaru-dnd5-hw",
+        "type": "module"
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Omar0275",
+      "url": "https://boosty.to/omar0275"
+    }
+  ],
+  "styles": ["styles/styles.css"],
+  "packs": [
+    {
+      "name": "priyut-stuzhi-omar0275",
+      "label": "Приют Стужи",
+      "path": "packs/priyut-stuzhi-omar0275",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ]
+}
